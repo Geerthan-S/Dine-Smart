@@ -1,0 +1,66 @@
+
+> dinesmart-client@1.0.0 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m391[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.153.37.89:[1m3000[22m/[39m
+[2m4:54:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m4:54:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AiChat.jsx, /src/index.css[22m
+[2m4:54:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/RestaurantCard.jsx, /src/index.css[22m
+[2m4:54:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:05:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:05:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m5:05:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m5:05:40 pm[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mlucide-react[32m[39m
+[2m5:05:40 pm[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m5:05:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/RestaurantCard.jsx, /src/index.css[22m
+[2m5:05:56 pm[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mframer-motion[32m[39m
+[2m5:05:56 pm[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m5:06:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BookingCard.jsx, /src/index.css[22m
+[2m5:06:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/LoadingSpinner.jsx, /src/index.css[22m
+[2m5:06:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MapView.jsx, /src/index.css[22m
+[2m5:06:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.jsx, /src/index.css[22m
+[2m5:06:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.jsx, /src/index.css[22m
+[2m5:06:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.jsx, /src/index.css[22m
+[2m5:07:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/index.css[22m
+[2m5:07:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Restaurants.jsx, /src/index.css[22m
+[2m5:07:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:07:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyBookings.jsx, /src/index.css[22m
+[2m5:07:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Booking.jsx, /src/index.css[22m
+[2m5:08:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPanel.jsx, /src/index.css[22m
+[2m5:09:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:09:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:10:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:10:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:29:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m5:29:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:29:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:29:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:30:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MapView.jsx, /src/index.css[22m
+[2m5:30:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:30:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m5:30:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:31:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m5:32:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:32:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:33:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:33:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:34:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:41:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:41:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:41:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:41:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:43:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:44:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m5:44:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Restaurants.jsx, /src/index.css[22m
+[2m10:21:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:22:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:23:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:23:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Restaurants.jsx, /src/index.css[22m
+[2m10:38:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/RestaurantCard.jsx, /src/index.css[22m
+[2m10:38:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:39:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A1B0C"/>
+      <stop offset="0.46" stop-color="#171A21"/>
+      <stop offset="1" stop-color="#0F1115"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="28%" cy="18%" r="48%">
+      <stop offset="0" stop-color="#f8c573" stop-opacity="0.62"/>
+      <stop offset="0.34" stop-color="#f97316" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="plate" cx="58%" cy="74%" r="34%">
+      <stop offset="0" stop-color="#fff7ed" stop-opacity="0.44"/>
+      <stop offset="0.48" stop-color="#fdba74" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect width="900" height="560" fill="url(#base)"/>
+  <rect width="900" height="560" fill="url(#lamp)"/>
+  <rect width="900" height="560" fill="url(#plate)"/>
+  <g opacity="0.42" filter="url(#blur)">
+    <ellipse cx="520" cy="430" rx="250" ry="72" fill="#fed7aa"/>
+    <ellipse cx="620" cy="412" rx="110" ry="36" fill="#FFC76A"/>
+    <ellipse cx="246" cy="145" rx="152" ry="72" fill="#fb923c"/>
+  </g>
+  <g opacity="0.34">
+    <path d="M80 404 C220 352 326 424 470 372 C604 324 720 354 860 310 L900 560 L0 560 Z" fill="#020617"/>
+    <path d="M120 392 C270 348 350 414 502 366 C640 324 710 346 848 312" fill="none" stroke="#fff7ed" stroke-opacity="0.34" stroke-width="3"/>
+  </g>
+  <g opacity="0.20">
+    <rect x="642" y="64" width="150" height="220" rx="26" fill="#FFB547"/>
+    <rect x="676" y="94" width="34" height="156" rx="17" fill="#ffffff"/>
+    <rect x="728" y="94" width="34" height="156" rx="17" fill="#ffffff"/>
+  </g>
+  <rect width="900" height="560" fill="#020617" opacity="0.18"/>
+</svg>
