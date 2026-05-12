@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ DineSmart AI — Restaurant Booking with AI Recommendations
 
 A full-stack production-quality MVP built with React + Vite + Tailwind CSS (frontend) and Node.js + Express + MongoDB (backend), featuring JWT auth and OpenAI-powered restaurant discovery.
@@ -107,3 +108,7 @@ API calls are proxied to `http://localhost:5000` automatically via Vite proxy co
 | AI | OpenAI GPT-3.5 Turbo |
 | HTTP Client | Axios |
 | Notifications | react-hot-toast |
+=======
+# Dine-Smart
+DineSmart is a multi-tenant restaurant management and booking ecosystem built for the city of Chennai. It serves three distinct user roles — customers, restaurant owners, and platform administrators each with a tailored interface and set of capabilities.
+>>>>>>> 213776b929fc82d73faeb1b7b5995e9d802f9db7

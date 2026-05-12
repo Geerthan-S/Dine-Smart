@@ -1,8 +1,9 @@
 import axios from 'axios';
 
-// Axios instance with base URL
+// In production, VITE_API_URL points to the deployed backend (e.g. https://dinesmart-api.onrender.com)
+// In development, Vite proxies /api → localhost:5000 so baseURL stays as '/api'
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api` : '/api',
 });
 
 // Attach JWT token to every request automatically
